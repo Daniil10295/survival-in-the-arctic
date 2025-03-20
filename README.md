@@ -1,2 +1,2 @@
-# survival-in-the-arctic
-survival-in-the-arctic game
+# Survival-in-the-arctic это приключение исследователя, застрявшего на арктическом полюсе без возможности вызвать помощь
+
